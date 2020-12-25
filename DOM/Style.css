@@ -1,0 +1,33 @@
+div {
+  height: 200px;
+  width: 300px;
+  border: 1px solid red;
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+}
+
+#FirstDiv {
+  color: royalblue;
+}
+
+#SecondDiv {
+  color: rgb(63, 168, 2);
+}
+
+#ThirdDiv {
+  color: palevioletred;
+}
+
+section {
+  text-align: center;
+}
+button {
+  margin: 140px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+#heading {
+  font-size: 24px;
+  background-color: pink;
+}
